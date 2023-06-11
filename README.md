@@ -1,12 +1,12 @@
-<img  height="300" width="1000" alt="Banner" src="https://github.com/swoodson3/swoodson3/assets/111030402/0c9e669c-eca8-442f-aeac-2c20b209695d">
+<img  height="200" width="1000" alt="Banner" src="https://github.com/swoodson3/swoodson3/assets/111030402/0c9e669c-eca8-442f-aeac-2c20b209695d">
 
 
 
-<h3 align="center"> 💫 About Me:</h3>
+<h2 align="center"> 💫 About Me:</h2>
 <p align="center"> Welcome! I'm Seth Woodson, a dedicated Full Stack Software Engineering student at Prime Digital Academy. With expertise in front-end and back-end development, I create dynamic web applications. The tech industry's transformative power excites me, and I'm eager to make a real impact. I thrive on challenges and collaborative teamwork, constantly seeking opportunities to learn and grow. Let's build a brighter future through technology together! </p>
 
 
-<h3 align="center"> 🌐 Contact:</h3>
+<h2 align="center"> 🌐 Contact:</h2>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/seth-woodson/" target="_blank" rel="noopener noreferrer">
       <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
@@ -17,7 +17,7 @@
 </p>
 
 
-<h3 align="center">  📊 GitHub Stats:</h3>
+<h2 align="center">  📊 GitHub Stats:</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swoodson3&theme=slateorange&hide_border=false" /></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoodson3&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -25,7 +25,7 @@
 
 
 <!--------------------- Technologies That I Have Used ---------------------->
-<h3 align="center">Technologies</h3>
+<h2 align="center">Technologies</h2>
 
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
